@@ -1,3 +1,12 @@
+---
+title: Niche Creation
+slug: /dimensions-define/niche-creation
+tags:
+  - Metrics Models
+  - Niche Creation
+description: The capacity to create and recognize meaningful diversity and thereby new capabilities.
+---
+
 # Niche Creation:
 Definition: The capacity to create and recognize meaningful diversity and thereby new capabilities.
 

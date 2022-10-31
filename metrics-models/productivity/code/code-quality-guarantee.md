@@ -1,3 +1,13 @@
+---
+title: Code Quality Guarantee
+slug: /metrics-models/productivity/code-quality-guarantee
+tags:
+  - Metrics Models
+  - Productivity
+  - Code Quality Guarantee
+description: The measurement of how to guarantee software quality using multiple proxies
+---
+
 # Code Quality Guarantee 
 
 Code, as the final output of a project, is the essence of the entire community's contribution. Code quality guarantee is the measurement of how to guarantee software quality using multiple proxies.

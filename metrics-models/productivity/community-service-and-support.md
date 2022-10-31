@@ -1,3 +1,13 @@
+---
+title: Community Service and Support
+slug: /metrics-models/productivity/niche-creation
+tags:
+  - Metrics Models
+  - Productivity
+  - Community Service and Support
+description: Community Service and Support measures the quality of services and support provided by the community as directly perceived by a developer during the contribution process.
+---
+
 # Community Service and Support
 
 Community Service and Support measures the quality of services and support provided by the community as directly perceived by a developer during the contribution process.
@@ -36,11 +46,13 @@ Community Service and Support measures the quality of services and support provi
 * Threshold: 30 days
 
 ## Comment Frequency
+
 * Definition: Determine the average number of comments per issue created in the last 90 days.
 * Weight: 10.217%
 * Threshold: 5
 
 ## Code Review Count
+
 * Definition: Determine the average number of review comments per pull request created in the last 90 days.
 * Weight: 10.217%
 * Threshold: 8 
@@ -52,6 +64,7 @@ Community Service and Support measures the quality of services and support provi
 We use [AHP](https://en.wikipedia.org/wiki/Analytic_hierarchy_process) to calculate weight of each metric.
 
 ### AHP Input Data
+
 Metric Name | Updated Issues Count | Close PR Count | Issue First Response | Bug Issue Open Time | PR Open Time | Comment Frequency | Code Review Count
 --- | --- | --- | --- | --- | --- | --- | --- 
 Updated Issues Count|    1.000 | 1.000 | 1.333 | 1.500 | 1.500 | 2.000 | 2.000
@@ -89,7 +102,9 @@ The threshold we chose is based on the big-data observations from different type
 * [CHAOSS Metric Model: Community Service and Support](https://github.com/chaoss/wg-metrics-models/tree/main/metrics-model-libs/community-service-and-support)
 
 # Contributors
+
 ## Frontend
+
 * Shengxiang Zhang
 * Feng Zhong
 * Chaoqun Huang
@@ -97,6 +112,7 @@ The threshold we chose is based on the big-data observations from different type
 * Xingyou Lai
 
 ## Backend
+
 * Yehui Wang
 * Chenqi Shan
 * Shengbao Li

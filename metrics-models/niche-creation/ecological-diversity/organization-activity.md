@@ -1,3 +1,13 @@
+---
+title: Organizations Activity
+slug: /metrics-models/niche-creation//developer-retention
+tags:
+  - Metrics Models
+  - Niche Creation
+  - Organizations Activity
+description: Describe how active organizations are in a community.
+---
+
 # Organizations Activity
 
 Organizational activity is used to describe how active organizations are in a community.

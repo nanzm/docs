@@ -1,3 +1,12 @@
+---
+title: Productivity
+slug: /dimensions-define/productivity
+tags:
+  - Metrics Models
+  - Productivity
+description: The efficiency with which an ecosystem or project converts inputs into output.
+---
+
 # Productivity
 Definition: The efficiency with which an ecosystem or project converts inputs into output.
 
@@ -39,4 +48,4 @@ Metrics Name | Definition | Threshold | Weight
 [Bug Issue Open Time](./community-service-and-support.md#bug_issue_open_time)  | Average/Median time (days) that bug issues have been opened for issues created in the last 90 days.|60|12.876%
 [PR Open Time](./community-service-and-support.md#pr_open_time) |Average/Median processing time (days) for new change requests created in the last 90 days, including closed/accepted change requests and unresolved change requests.|30|12.876%
 [Comment Frequency](./community-service-and-support.md#comment-frequency) |Determine the average number of comments per issue created in the last 90 days.|5|10.217%
-[Code Review　Count](./community-service-and-support.md#code-review-count) |Determine the average number of review comments per pull request created in the last 90 days|8| 10.217%
+[Code Review Count](./community-service-and-support.md#code-review-count) |Determine the average number of review comments per pull request created in the last 90 days|8| 10.217%

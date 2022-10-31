@@ -1,3 +1,13 @@
+---
+title: Activity
+slug: /metrics-models/robustness/activity
+tags:
+  - Metrics Models
+  - Robustness
+  - Activity
+description: Describe how active an open source community is.
+---
+
 # Activity
 
 Community Activity is used to describe how active an open source community is.
@@ -86,7 +96,7 @@ In order for an open source project to be sustainable, it must continue to be ma
 We use [AHP](https://en.wikipedia.org/wiki/Analytic_hierarchy_process) to calculate weight of each metric.
 
 ### AHP Input Data
-Metric Name | Contributor Count | Commit frequency | Updated Since | Org Count | Created Since | Comment Frequency | Code Review　Count | Closed Issues　Count | Updated Issues　Count | Recent Releases　Count | Maintainer　Count | Meeting　Count | Meeting Attendee　Count 
+Metric Name | Contributor Count | Commit frequency | Updated Since | Org Count | Created Since | Comment Frequency | Code Review Count | Closed Issues Count | Updated Issues Count | Recent Releases Count | Maintainer Count | Meeting Count | Meeting Attendee Count 
 --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | ---
 Contributor Count | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 6 | 6
 Commit frequency  | 1 | 1 | 2 | 2 | 3 | 3 | 4 | 4 | 4 | 5 | 6 | 6 | 6
@@ -94,13 +104,13 @@ Updated Since  | 0.5 | 0.5 | 1 | 2 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5
 Org Count | 0.5 | 0.5 | 0.5 | 1 | 2 | 2 | 3 | 3 | 3 | 4 | 5 | 5 | 5
 Created Since | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 2 | 2 | 2 | 3 | 4 | 4 | 4
 Comment Frequency | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 2 | 2 | 2 | 3 | 4 | 4 | 4
-Code Review　Count | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
-~~Closed Issues　Count~~ | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
-Updated Issues　Count | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
-Recent Releases　Count | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 0.5 | 1 | 2 | 2 | 2
-Maintainer　Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
-Meeting　Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
-Meeting Attendee　Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
+Code Review Count | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
+~~Closed Issues Count~~ | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
+Updated Issues Count | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 1 | 1 | 1 | 2 | 3 | 3 | 3
+Recent Releases Count | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.5 | 0.5 | 0.5 | 1 | 2 | 2 | 2
+Maintainer Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
+Meeting Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
+Meeting Attendee Count | 0.167 | 0.167 | 0.2 | 0.2 | 0.25 | 0.25 | 0.333 | 0.333 | 0.333 | 0.5 | 1 | 1 | 1
 
 ### AHP Analysis Result
 
@@ -112,13 +122,13 @@ Updated Since | 1.657 | 12.742%
 Org Count  | 1.495 | 11.501%
 Created Since | 1.010 | 7.768%
 Comment Frequency | 1.010 | 7.768%
-Code Review　Count | 0.639 | 4.919%
-~~Closed Issues　Count~~| 0.639 | 4.919%
-Updated Issues　Count | 0.639 | 4.919%
-Recent Releases　Count| 0.413 | 3.177%
-Maintainer　Count | 0.272 | 2.090%
-Meeting　Count | 0.272 | 2.090%
-Meeting Attendee　Count | 0.272 | 2.090%
+Code Review Count | 0.639 | 4.919%
+~~Closed Issues Count~~| 0.639 | 4.919%
+Updated Issues Count | 0.639 | 4.919%
+Recent Releases Count| 0.413 | 3.177%
+Maintainer Count | 0.272 | 2.090%
+Meeting Count | 0.272 | 2.090%
+Meeting Attendee Count | 0.272 | 2.090%
 
 ### Consistency Test Results
 
